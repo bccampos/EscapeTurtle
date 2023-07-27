@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bruno.EscapeTurtleChallenge.ConsoleApp/obj
+/bruno.EscapeTurtleChallenge.ConsoleApp/bin/Debug/net7.0
+/bruno.EscapeTurtleChallenge.Core/obj
+/bruno.EscapeTurtleChallenge.Core/bin/Debug/net7.0
+/bruno.EscapeTurtleChallenge.Core.Tests/obj
+/bruno.EscapeTurtleChallenge.Core.Tests/bin/Debug/net7.0
