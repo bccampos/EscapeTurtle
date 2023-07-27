@@ -4,12 +4,12 @@ Open the solution and build the application. After the successful build run the 
 
 $ bruno.EscapeTurtleChallenge.ConsoleApp.exe -t turtle-settings -m moves
 
-NOTE: To execute this project, you need to build and specify the turtle-settings and move files. The tests files can be found in the consoleApp
+**NOTE: To execute this project, you need to build and specify the turtle-settings and move files. The tests files can be found in the consoleApp**
 
 ### Move File 
-r - Rotate​ to the right
-m - Move​ forward
-example: m,r,m,m,m,m,r,m,m (Escaped)
+* r - Rotate​ to the right
+* m - Move​ forward
+* example: m,r,m,m,m,m,r,m,m (Escaped)
 
 ### Escaped Screenshot
 ![image](https://github.com/bccampos/EscapeTurtle/assets/36283909/9a9448a8-8b5f-491e-b3f4-0816bc587865)
